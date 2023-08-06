@@ -1,0 +1,17 @@
+@3
+D=A
+@i
+M=D
+@3
+D=A
+@x
+M=D
+@i
+D=M
+@x
+D=D-M
+@END
+D;JEQ
+@x
+M=M+1
+(END)
