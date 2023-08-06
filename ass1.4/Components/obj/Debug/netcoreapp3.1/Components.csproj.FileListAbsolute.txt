@@ -1,0 +1,55 @@
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Teaching\ECS\2021\Ex1.1\DotNetCore\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.csproj.AssemblyReference.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.csproj.AssemblyReference.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.3\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\bin\Debug\netcoreapp3.1\Components.exe
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\bin\Debug\netcoreapp3.1\Components.runtimeconfig.dev.json
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.csproj.AssemblyReference.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.pdb
+C:\Users\hagai\OneDrive\מסמכים\semester e\מבנה מערכות מחשוב\ass1.4\Components\obj\Debug\netcoreapp3.1\Components.genruntimeconfig.cache
